@@ -1,0 +1,1 @@
+# argocd_for_java_application
